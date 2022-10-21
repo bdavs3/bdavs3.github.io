@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{w2l6:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),o=t("hIod"),u=t("Bl7J");n.default=function(){return l.a.createElement(u.a,null,l.a.createElement(o.a,{title:"404"}),l.a.createElement("div",null,"Looks like you found the 404 page"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-d8524a18fa16d5f43586.js.map
