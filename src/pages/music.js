@@ -30,13 +30,13 @@ const embeddedMixes = mixUrls.map((url) => (
 const MusicPage = () => (
   <Layout>
     <Head title="Music" />
-    <div className="book-review-wrapper">
+    <div className="book-review-wrapper" style={{lineHeight: 0}}>
         <h1 className="title is-1 has-text-centered">Tracks</h1>
         {embeddedTracks}
         
         <br /><br />
         
-        <h1 className="title is-1 has-text-centered">Mixes</h1>
+        <h1 className="title is-1 has-text-centered" style={{marginTop: 24}}>Mixes</h1>
         {embeddedMixes}
     </div>
   </Layout>
