@@ -56,8 +56,8 @@ class Header extends React.Component {
                 {/* <Link className="navbar-item" to="/portfolio">
                   Portfolio
                 </Link> */}
-                <Link className="navbar-item" to="/blog">
-                  Blog
+                <Link className="navbar-item" to="/music">
+                  Music
                 </Link>
                 <Link className="navbar-item" to="/book-review">
                   Book Review
