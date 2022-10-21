@@ -20,8 +20,7 @@ const embeddedTracks = trackUrls.map((url) => (
 
 let mixUrls = [
     "https://soundcloud.com/zbxd/shards-of-the-pandemic",
-    "https://soundcloud.com/zbxd/just-gonna-upload-this-as-is",
-    "https://soundcloud.com/zbxd/she-loves-radiostar-1"
+    "https://soundcloud.com/zbxd/just-gonna-upload-this-as-is"
 ]
 const embeddedMixes = mixUrls.map((url) => (
     <ReactSoundCloud url={url} width="50%"/>
