@@ -24,11 +24,11 @@ const IndexPage = () => (
           <div className="column">
             <p>
               Hi! I'm Ben, a software developer originally from Phoenix, AZ. 
-              I have also spent several years living in Los Angeles, first at
+              I spent several years living in Los Angeles, first at
               Loyola Marymount University, then in the beach town of El
               Segundo. <br /> <br />
-              This website serves as a way to keep track of my thoughts from
-              time to time. You can view the source code for it{" "}
+              I currently reside in Boulder, CO. You can view the source 
+              for this site {" "}
               <a
                 href="https://github.com/bdavs3/my-website"
                 target="_blank"
